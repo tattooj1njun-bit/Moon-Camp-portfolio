@@ -19,6 +19,12 @@ function Hero() {
           <p className="mt-6 max-w-xl text-xl italic leading-8 text-moon-muted">Every child deserves a universe.</p>
 
           <div className="mt-8 flex flex-wrap gap-3 text-sm font-medium text-moon-muted">
+            <span className="inline-flex items-center gap-2 rounded-full border border-moon-ink/10 bg-moon-ink px-4 py-2 text-moon-paper">
+              产品设计-2302班
+            </span>
+            <span className="inline-flex items-center gap-2 rounded-full border border-moon-ink/10 bg-moon-paper/70 px-4 py-2 text-moon-ink">
+              金晓俊
+            </span>
             <span className="inline-flex items-center gap-2 rounded-full border border-moon-ink/10 bg-moon-paper/70 px-4 py-2">
               <Leaf className="h-4 w-4 text-moon-sageDeep" />
               Sustainable material
